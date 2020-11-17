@@ -6,6 +6,7 @@ import socket
 import sys
 import os
 
+#Receiving The Value Of IP and PORT From the User
 
 LISN_IP = input(colored("Enter The Local IP of your Machine: ", "green"))
 LISN_PORT = int(input(colored("Enter The port no. to bind: ", "green")))
