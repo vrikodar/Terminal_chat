@@ -14,7 +14,8 @@ These Chat Scripts Work Best With Python3
 chat_server.py has the most Control of the Chat.
 
 # 𝕌ℙ𝔻𝔸𝕋𝔼
-This Repositery will be Updated regularly and soon a version of Terminal_chat Supporting Highly Secure Encryption Will be released..
+1.This Repositery will be Updated regularly and soon a version of Terminal_chat Supporting Highly Secure Encryption Will be released..
+2. A windows Version Of The Compiled exe of both Chat and Server Will be Avialable Soon With Some Tweeks
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
 
