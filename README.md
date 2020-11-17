@@ -10,15 +10,15 @@ These Chat Scripts Work Best With Python3
 
 //Use Python3 to run the Program//
 
-Bye in the chat Just ends it so enter bye in the chat terminal only when you want to end the chat
-cha_server.py has the most Control of the Chat.
+'Bye' in the chat Just ends it so enter 'bye' in the chat terminal only when you want to end the chat..
+chat_server.py has the most Control of the Chat.
 
 # 𝕌ℙ𝔻𝔸𝕋𝔼
-This Repositery will be Updated regularlly and soon a version of Terminal_chat Supporting Encryption Will be released1
+This Repositery will be Updated regularly and soon a version of Terminal_chat Supporting Encryption Will be released1
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
 
-TO RUN THE CHAT Simple Use the Following Commands o Two machines Respetively
+TO RUN THE CHAT Simple Use the Following Commands On Two machines Respetively
 1. Python3 chat_server.py
 2. Python3 chat_client.py
 
