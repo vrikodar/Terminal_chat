@@ -7,7 +7,7 @@ import os
 
 #Receiving The Value Of IP and PORT From the User
 
-SERVER_IP = input(colored("What Is Ip the server running: ", "green"))
+SERVER_IP = input(colored("What Is Ip of the server running: ", "green"))
 SERVER_PORT = int(input(colored("Enter Port No on which the server is running: ", "green")))
 
 USER_NAME = input(colored("Please Choose a Username for Chat: "))
