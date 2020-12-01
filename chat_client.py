@@ -1,5 +1,6 @@
 #By SxNade
 #https://github.com/SxNade
+#CONTRIBUTE
 
 from termcolor import colored
 import socket
