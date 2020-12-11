@@ -1,5 +1,5 @@
 # Terminal_Chat
-Chat with your Buddies Right from terminal
+Chat with your Buddies Right from terminal.....NOW WITH AES Encryption!!
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 just run the command pip3 install termcolor.
@@ -15,8 +15,7 @@ These Chat Scripts Work Best With Python3
 chat_server.py has the most Control of the Chat.
 
 # 𝕌ℙ𝔻𝔸𝕋𝔼
-1.This Repositery will be Updated regularly and soon a version of Terminal_chat Supporting Highly Secure Encryption Will be released..
-2. A windows Version Of The Compiled exe of both Chat and Server Will be Avialable Soon With Some Tweeks
+1.NOW Terminal_chat Supports Highly Secure AES Encryption...!
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
 
