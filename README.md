@@ -1,5 +1,5 @@
 # Terminal_Chat
-Chat with your Buddies Right from terminal.....NOW WITH AES Encryption!!
+Setup a AES Encrypted Chat with your Buddies Right from terminal...... 
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 just run the command pip3 install termcolor.
