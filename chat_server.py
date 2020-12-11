@@ -3,6 +3,7 @@
 #CONTRIBUTE
 
 from termcolor import colored
+from Crypto.Cipher import AES
 import socket
 import sys
 import os
@@ -45,8 +46,15 @@ def chat():
             break
 
         else:
-            conn.send(encoded_name + msg.encode())
-            print(conn.recv(8192).decode())
+            magic = AES.new('EBC3D4C51C46801A7267AAB59A63551B', AES.MODE_CFB, 'This is an IV456')
+            #YOU MUST REPLACE THIS AES KEY.....>!!!FIND ONE FOR YOURSELF ON GOOGLE>>>>>!
+            data = encoded_name + msg.encode()
+            data_send = magic.encrypt(data)
+            conn.send(data_send)
+            In_messg = conn.recv(8192)
+            recv_data_enc = magic.decrypt(In_messg)
+            recv_data_unenc = recv_data_enc.decode()
+            print(recv_data_unenc)
 
 #Final Main function to run the Chat Program! 
 
