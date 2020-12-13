@@ -21,7 +21,7 @@ These Chat Scripts Work Best With Python3
 
 `Use Python3 to run the Program`
 
-`**'Bye in the chat Just ends it so enter 'bye' in the chat terminal only when you want to end the chat..
+***'Bye in the chat Just ends it so enter 'bye' in the chat terminal only when you want to end the chat..
 chat_server.py has the most Control of the Chat.***`
 
 # 𝕌ℙ𝔻𝔸𝕋𝔼
