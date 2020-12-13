@@ -7,7 +7,7 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/SxNade)
 
 # Terminal_Chat
-![Capture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxBt1kWLUSCX6kuHVV1d_ecpMtD5ULwZJ9w&usqp=CAU)
+![Capture](https://img.stackshare.io/service/6489/hyper-logo.png)
 
 `Setup a AES Encrypted communication Between two machines Right from terminal`
 
