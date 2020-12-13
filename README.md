@@ -34,4 +34,4 @@ chat_server.py has the most Control of the Chat.
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Terminal_chat Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
 
-` git clone https://github.com/SxNade/Terminal_chat
+` git clone https://github.com/SxNade/Terminal_chat`
