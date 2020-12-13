@@ -7,6 +7,8 @@
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/SxNade)
 
 # Terminal_Chat
+![Capture](https://banner2.cleanpng.com/20180320/iae/kisspng-brand-logo-circle-terminal-5ab0c999d6c656.8646870115215353858797.jpg)
+
 `Setup a AES Encrypted communication Between two machines Right from terminal`
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
