@@ -14,7 +14,19 @@
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 `pip3 install termcolor.`
- `Python3 Should Be installed On your System`
+
+`Python3 Should Be installed On your System`
+
+# 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
+
+**TO RUN THE CHAT Simple Use the Following Commands On Two machines Respectively**
+`1. Python3 chat_server.py`
+
+`2. Python3 chat_client.py`
+
+![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch.png)
+`the chat would look something like this...`
+![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch2.png)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
@@ -28,16 +40,6 @@ chat_server.py has the most Control of the Chat.`***
 # 𝕌ℙ𝔻𝔸𝕋𝔼
 `1.NOW Terminal_chat Supports Highly Secure AES Encryption...!`
 
-# 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
-
-**TO RUN THE CHAT Simple Use the Following Commands On Two machines Respectively**
-`1. Python3 chat_server.py`
-
-`2. Python3 chat_client.py`
-
-![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch.png)
-`the chat would look something like this...`
-![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch2.png)
 
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Terminal_chat Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
