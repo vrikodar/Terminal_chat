@@ -32,10 +32,13 @@ chat_server.py has the most Control of the Chat.`***
 
 **TO RUN THE CHAT Simple Use the Following Commands On Two machines Respectively**
 `1. Python3 chat_server.py`
+
 `2. Python3 chat_client.py`
+
 ![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch.png)
 `the chat would look something like this...`
 ![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch2.png)
+
 # 𝑴𝑨𝑲𝑬_𝑰𝑻_𝑩𝑬𝑻𝑻𝑬𝑹
 To make Terminal_chat Even Better Contribute to it Or use and Report Any Bugs or fixes Required..
 
