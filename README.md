@@ -23,9 +23,9 @@
 
 **TO RUN THE CHAT Simple Use the Following Commands On Two machines Respectively**
 
-`1. Python3 chat_server.py`
+`1. python3 chat_server.py`
 
-`2. Python3 chat_client.py`
+`2. python3 chat_client.py`
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch.png)
 `the chat would look something like this...`
