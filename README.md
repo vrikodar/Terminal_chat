@@ -14,9 +14,10 @@
 `Setup a AES Encrypted communication Between two machines Right from terminal`
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
-`pip3 install termcolor.`
 
-`Python3 Should Be installed On your System`
+`chmod +x install.sh`
+
+`./install.sh`
 
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
 
