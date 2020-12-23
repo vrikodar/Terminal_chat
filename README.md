@@ -22,6 +22,7 @@
 # 𝙍𝙐𝙉𝙉𝙄𝙉𝙂 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!
 
 **TO RUN THE CHAT Simple Use the Following Commands On Two machines Respectively**
+
 `1. Python3 chat_server.py`
 
 `2. Python3 chat_client.py`
