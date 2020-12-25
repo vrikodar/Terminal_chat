@@ -31,6 +31,9 @@
 `the chat would look something like this...`
 ![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch2.png)
 
+
+![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/cht.png)
+
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
 These Chat Scripts Work Best With Python3
