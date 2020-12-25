@@ -46,7 +46,7 @@ def chat():
 #infinite loop to recieve messages from the user till the server runs
 
     while True:
-        msg = input(colored("SEND-> ", "red", attrs=['bold']))
+        msg = input(colored("\nSEND-> ", "red", attrs=['bold']))
         #condition statement to close the chat incase server_user enters 'bye'
         if msg == 'bye':
             conn.send('bye'.encode())
@@ -65,7 +65,7 @@ def chat():
             In_messg = conn.recv(8192)
             recv_data_enc = magic.decrypt(In_messg)
             recv_data_unenc = recv_data_enc.decode()
-            print(recv_data_unenc)
+            print("\n" + recv_data_unenc)
 
 #Final Main function to run the Chat Program! 
 
