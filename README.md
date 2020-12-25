@@ -29,8 +29,6 @@
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch.png)
 `the chat would look something like this...`
-![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch2.png)
-
 
 ![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/cht.png)
 
