@@ -48,7 +48,7 @@ def chat():
         recv_data_1 = magic.decrypt(In_msg)
         recv_data_unenc = recv_data_1.decode()
         print(recv_data_unenc)
-        Out_msg = input(colored("MSG> ", "red", attrs=['bold']))
+        Out_msg = input(colored("SEND-> ", "red", attrs=['bold']))
         data = encoded_name + Out_msg.encode()
         send_data = magic.encrypt(data)
         s.send(send_data)
