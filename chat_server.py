@@ -46,7 +46,7 @@ def chat():
 #infinite loop to recieve messages from the user till the server runs
 
     while True:
-        msg = input(colored("MSG> ", "red", attrs=['bold']))
+        msg = input(colored("SEND-> ", "red", attrs=['bold']))
         #condition statement to close the chat incase server_user enters 'bye'
         if msg == 'bye':
             conn.send('bye'.encode())
