@@ -57,12 +57,14 @@ def chat():
             break
 
         else:
+         #adding AES encryption
             magic = AES.new('EBC3D4C51C46801A7267AAB59A63551B', AES.MODE_CFB, 'This is an IV456')
             #YOU MUST REPLACE THIS AES KEY.....>!!!FIND ONE FOR YOURSELF ON GOOGLE>>>>>!
             data = encoded_name + msg.encode()
             data_send = magic.encrypt(data)
             conn.send(data_send)
             In_messg = conn.recv(8192)
+            #decrypting the incoming AES encrypted data
             recv_data_enc = magic.decrypt(In_messg)
             recv_data_unenc = recv_data_enc.decode()
             print("\n" + recv_data_unenc)
