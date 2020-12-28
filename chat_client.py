@@ -42,6 +42,7 @@ def chat():
     #infinite loop to recieve messages from the user till the server runs
     
     while True:
+     #adding AES encryption
         magic = AES.new('EBC3D4C51C46801A7267AAB59A63551B', AES.MODE_CFB, 'This is an IV456')
         #YOU MUST REPLACE THIS AES KEY>>>FIND A AES KEY FOR YOURSELF ON GOOGLE>>>!!
         In_msg = s.recv(8192)
@@ -51,6 +52,7 @@ def chat():
         Out_msg = input(colored("\nSEND-> ", "red", attrs=['bold']))
         data = encoded_name + Out_msg.encode()
         send_data = magic.encrypt(data)
+        #encrypting the data with AES
         s.send(send_data)
 
         #condition statement to close the chat incase server_user enters 'bye'
