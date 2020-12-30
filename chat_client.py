@@ -27,7 +27,7 @@ USER_NAME = input(colored("Please Choose a Username for Chat: "))
 
 os.system('clear')
 
-print(colored("<1>ONLINE..", "green", attrs=['bold']))
+print(colored("<1>ONLINE..", "green", attrs=['reverse', 'blink']))
 
 name = USER_NAME + ">> "
 encoded_name = name.encode()
