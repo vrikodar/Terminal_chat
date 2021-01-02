@@ -1,5 +1,5 @@
 #By SxNade
-#https://github.com/SxNade
+#https://github.com/SxNade/Terminal_chat
 #CONTRIBUTE
 
 from termcolor import colored
