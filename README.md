@@ -27,10 +27,8 @@
 
 `2. python3 chat_client.py`
 
-![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/ch.png)
-`the chat would look something like this...`
+![Capture](https://github.com/SxNade/Terminal_chat/blob/main/chat.gif)
 
-![Capture](https://raw.githubusercontent.com/SxNade/Terminal_chat/main/cht.png)
 
 # 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢
 
