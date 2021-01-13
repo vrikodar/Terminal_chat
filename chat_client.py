@@ -1,6 +1,7 @@
 #By SxNade
 #https://github.com/SxNade/Terminal_chat
 #CONTRIBUTE
+#client script
 
 from termcolor import colored
 from Crypto.Cipher import AES
