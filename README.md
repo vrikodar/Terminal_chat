@@ -11,7 +11,7 @@
 # Terminal_Chat
 ![Capture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRe9HwqoxZZ_I_S9fzagJPQaO2hRxRt6d7EA&usqp=CAU)
 
-`Setup a AES Encrypted communication Between two machines Right from terminal`
+`Setup a AES Encrypted communication Between two machines Right from your Terminal`
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
 
