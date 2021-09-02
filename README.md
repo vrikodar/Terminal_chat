@@ -1,14 +1,5 @@
-[![SxNade](https://img.shields.io/badge/MadeBy-SxNade-red)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/SxNade)
-[![Stage](https://img.shields.io/badge/Version-v2.0-brightgreen)]()
-[![Update](https://img.shields.io/badge/updated-today-brightgreen)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/SxNade)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://github.com/SxNade)
-
-
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/SxNade)
-
 # Terminal_Chat
+
 ![Capture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRe9HwqoxZZ_I_S9fzagJPQaO2hRxRt6d7EA&usqp=CAU)
 
 `Setup a AES Encrypted communication Between two machines Right from your Terminal`
